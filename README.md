@@ -1,0 +1,2 @@
+# C_practice_gomaye
+一个训练代码以及练习git操作的仓库
